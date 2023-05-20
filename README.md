@@ -2,4 +2,4 @@
 
 ## Gravando mudancas repositorio, aprovado pelo dev, valeu meu mano
 
-*git restore
+* git restore
